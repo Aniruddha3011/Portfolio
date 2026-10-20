@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "command": "C:\\Users\\aniruddha\\.jetro\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\aniruddha\\.jetro\\mcp-server\\index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "c:\\Users\\aniruddha\\OneDrive\\Desktop\\portfolio2",
+        "JET_API_URL": "https://api.jetro.ai",
+        "JET_JWT": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkwNGIwZjkxYmU2ZWIwODY3ZGFiYmFhYjU4N2RmYzJlMzNmMDBhMjQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vamV0cm8tY2RhZWYiLCJhdWQiOiJqZXRyby1jZGFlZiIsImF1dGhfdGltZSI6MTc4OTM5NTYxMSwidXNlcl9pZCI6IkRPY080eE1MQjRPNXdVYXRrdDhLOWloNkN6SjIiLCJzdWIiOiJET2NPNHhNTEI0TzV3VWF0a3Q4SzlpaDZDekoyIiwiaWF0IjoxNzkyNDc5MDQ5LCJleHAiOjE3OTI0ODI2NDksImVtYWlsIjoiYW5pcnVkZGhhbWFnYXIzMDA1QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImFuaXJ1ZGRoYW1hZ2FyMzAwNUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.FeL4JWVOWAv3t7PkalvurryUebCAnFHyI3fVs0NtWxx3LAwW7nwY_Ggs6GBLok3S2GCIv1OeyNPaBYfxEhpcUVi0AmFsE93kX_H1sqNMfQtzmYxQuW2qm9T-KfH_ckh7Zfo3w-HnVsnPG1RVCvaxi1nB6MK5hDI0xnfTx3I2xraN9guLhWSC5jpq-9yfgCnsryViS_Hq74ipWAEFie1G1c_l0Lr0NLCZYZtZjBD-p0h_hvgUGiA8l4L2jNhWUFYExk0rew__MYu51HETyoPpZ7YrotOWPFnLS2wlIQOT4UCjFttiuXn4UBdzNs1BcrmM33EiZvubEl8SZLn8j5x61Q",
+        "PATH": "C:\\Users\\aniruddha\\.jetro\\runtime;C:\\Program Files\\Microsoft\\jdk-17.0.20.8-hotspot\\bin;D:\\Scripts\\;D:\\;C:\\Python312\\Scripts\\;C:\\Python312\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\MinGW\\bin;C:\\Program Files\\Java\\jdk-22\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;A:\\androidsdk\\platform-tools;D:\\nodejs\\;C:\\Program Files\\WSL\\;C:\\Users\\aniruddha\\.local\\bin;C:\\Users\\aniruddha\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\aniruddha\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;D:\\flutter_windows_3.24.0-stable\\flutter\\bin;C:\\Java\\jdk-22\\bin;C:\\Users\\aniruddha\\AppData\\Local\\GitHubDesktop\\bin;A:\\Windsurf\\bin;D:\\Antigravity\\bin;C:\\flutter\\bin;D:\\Antigravity IDE\\bin;C:\\Users\\aniruddha\\AppData\\Local\\Programs\\Antigravity IDE\\bin;D:\\Kiro\\bin;C:\\Users\\aniruddha\\AppData\\Roaming\\npm;C:\\Users\\aniruddha\\AppData\\Local\\Programs\\Amazon\\AWSCLIV2\\;C:\\Users\\aniruddha\\AppData\\Local\\Programs\\Amazon\\AWSCLIV2"
+      }
+    }
+  }
+}
