@@ -158,12 +158,6 @@ This is a personal portfolio project. For suggestions or improvements:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Contact
-
-- **Email**: your.email@example.com
-- **LinkedIn**: linkedin.com/in/yourprofile
-- **GitHub**: github.com/yourusername
-
 ---
 
 **Built with ❤️ and modern web technologies**
